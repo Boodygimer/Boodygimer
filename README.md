@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Boody Gimer (Dev or Doc)
-### 👨‍🔬 Physics Student @ Mansoura University | 💻 Web Dev | 🎮 Pro Gamer
+### Mansoura University | 💻 Web Dev | 🎮 Pro Gamer
 
 ---
 
