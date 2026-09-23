@@ -18,8 +18,8 @@
 - 🔭 **Current Project:** Building an **Educational Platform** (Discord-like architecture).
 - 🎓 **Education:** Physics Department, Faculty of Science, Mansoura University.
 - 🐧 **OS:** Proud **Fedora Linux** User.
-- 🎮 **Main Games:** `Counter-Strike 2`, `Sekiro: Shadows Die Twice`, `Roblox`.
-- 🛠️ **Identity:** Known as **Dev or Doc** on social media.
+- 🎮 **Main Games:** `Counter-Strike 2`, `Sekiro: Shadows Die Twice`, `Roblox` , `War Thunder` 
+- 🛠️ **Identity:** Known as **0.7_0.6** on social media.
 
 ---
 
